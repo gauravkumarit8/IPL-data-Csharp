@@ -1,0 +1,15 @@
+C:\Users\gaura\Desktop\C#\Project\IPLProject\bin\Debug\net8.0\IPLProject.exe
+C:\Users\gaura\Desktop\C#\Project\IPLProject\bin\Debug\net8.0\IPLProject.deps.json
+C:\Users\gaura\Desktop\C#\Project\IPLProject\bin\Debug\net8.0\IPLProject.runtimeconfig.json
+C:\Users\gaura\Desktop\C#\Project\IPLProject\bin\Debug\net8.0\IPLProject.dll
+C:\Users\gaura\Desktop\C#\Project\IPLProject\bin\Debug\net8.0\IPLProject.pdb
+C:\Users\gaura\Desktop\C#\Project\IPLProject\obj\Debug\net8.0\IPLProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaura\Desktop\C#\Project\IPLProject\obj\Debug\net8.0\IPLProject.AssemblyInfoInputs.cache
+C:\Users\gaura\Desktop\C#\Project\IPLProject\obj\Debug\net8.0\IPLProject.AssemblyInfo.cs
+C:\Users\gaura\Desktop\C#\Project\IPLProject\obj\Debug\net8.0\IPLProject.csproj.CoreCompileInputs.cache
+C:\Users\gaura\Desktop\C#\Project\IPLProject\obj\Debug\net8.0\IPLProject.sourcelink.json
+C:\Users\gaura\Desktop\C#\Project\IPLProject\obj\Debug\net8.0\IPLProject.dll
+C:\Users\gaura\Desktop\C#\Project\IPLProject\obj\Debug\net8.0\refint\IPLProject.dll
+C:\Users\gaura\Desktop\C#\Project\IPLProject\obj\Debug\net8.0\IPLProject.pdb
+C:\Users\gaura\Desktop\C#\Project\IPLProject\obj\Debug\net8.0\IPLProject.genruntimeconfig.cache
+C:\Users\gaura\Desktop\C#\Project\IPLProject\obj\Debug\net8.0\ref\IPLProject.dll

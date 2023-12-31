@@ -1,39 +1,13 @@
 using System;
-namespace IPLProject{
-    class Match{
-        private String Id
-        {
-            get;
-            set;
-        }
-        private String Year{
-            get;
-            set;
-        }
-        private String Team1{
-            get;
-            set;
-        }
-        private String Team2{
-            get;
-            set;
-        }
-        private String City{
-            get;
-            set;
-        }
-        private String WinnerTeam{
-            get;
-            set;
-        }
-        private String PlayerOfMatch{
-            get;
-            set;
-        }
-        private String Venue{
-            get;
-            set;
-        }
-
+namespace IplAnalysis{
+    class Match
+    {
+        public string Id { get; set; }
+        public string Year { get; set; }
+        public string Team1 { get; set; }
+        public string Team2 { get; set; }
+        public string City { get; set; }
+        public string PlayerOfMatch { get; set; }
+        public string WinnerTeam { get; set; }
     }
 }
